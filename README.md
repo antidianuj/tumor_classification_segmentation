@@ -1,5 +1,6 @@
 # MRI Scan based Brain Tumor Classification and Segmentation
 ## MRI Tumor Classification
+### dataset: https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
 
 The following table is created with no hyperparameter tunning
 
@@ -12,3 +13,12 @@ The following table is created with no hyperparameter tunning
 |   N-ViT    |     28.64      |     29.19     |
 |   DeViT    |     -      |     71.07    |
 |   EfficientNetV2   |     -      |     37.56   |
+
+
+
+## Brain Tumor Segmentation
+### dataset: https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation
+
+
+
+
