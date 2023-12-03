@@ -1,7 +1,7 @@
 # MRI Scan based Brain Tumor Classification and Segmentation
 ## MRI Tumor Classification
 
-
+The following table is created with no hyperparameter tunning
 
 | Model | Train Acc | Test Acc |
 |-------|-----------|----------|
